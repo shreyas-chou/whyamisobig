@@ -18,7 +18,8 @@ request("https://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&schoolName
         });
     }
 });
-/*
+/*]o no 
+
 export default class Professors extends React.Component {
 render(){ 
 request("https://www.ratemyprofessors.com/search.jsp?queryBy=schoolId&schoolName=Texas+A%26M+University+at+College+Station&schoolID=1003&queryoption=TEACHER",(error,response,html)=>{
